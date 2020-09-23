@@ -1,5 +1,5 @@
 #include"stack.h"
-
+//this is a stack class
 Stack::Stack()
 {
 	top = 0;
